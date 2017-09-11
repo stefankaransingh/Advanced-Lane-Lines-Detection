@@ -2,16 +2,6 @@
 
 The goal of this project is to write a software pipeline to identify the lane boundaries in a video.
 
-The final outcome of this project is as follows:
-
-## Project Video
-
-<img src="test_videos_output/project_video.gif" width="70%">
-
-## Challenge Video
-
-<img src="test_videos_output/project_video.gif" width="70%">
-
 The steps implemented to achieve the goals set for this project are as follows:
 
 1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
